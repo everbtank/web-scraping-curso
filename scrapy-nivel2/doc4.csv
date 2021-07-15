@@ -1,0 +1,77 @@
+descripcion,id,pregunta
+"
+            I want to capture all the function names present in a string for e.g.
+DECODE(TRUE, NOT ISNULL(parameter1),VARIABLE1, ISNULL(Parameter2) AND NOT ISNULL(parameter1),Variable3, ISNULL(parameter) AND ...
+        ",[0],Regex to capture nested functions in a string
+"
+            So I am trying to make my own octree in Rust, but I'm having trouble with my set function. It's supposed to be recursive, and there is a point where I am matching the child node. Except, it has two ...
+        ",[1],Borrow and assign to values behind & reference
+"
+            how do I actually code in PHP to display all the data table in the database.
+I code it like this below but it seems like it doesn't work because it only shows 1 information in the data table instead I ...
+        ",[2],PHP List All Data Table Information from Database
+"
+            Currently we are hosting an ecommerce site. Written in C#. The framework is .NET 4.7.2. We are experiencing the issue where the session is lost when traffic is returned
+from the PSP(payment service ...
+        ",[3],Regarding handling return traffic from a payment service provider
+"
+            I am trying to use AspNetCoreRateLimit but got error please help!!!
+follow example here: https://riptutorial.com/asp-net-core/example/18611/rate-limiting-based-on-client-ip
+My Code
+public void ...
+        ",[4],Use AspNetCoreRateLimit .net core - Unable to resolve service for type 'AspNetCoreRateLimit
+"
+            I am working with video background to my website. I created a custom code to embed the URL link from Youtube and Vimeo using the ""oEmbed"". the process is perfectly working fine, however I ...
+        ",[5],Custom Code embed the URL link from Youtube and Vimeo
+"
+            I have this issue on windows 10. The popup is showing one after the other. Any question?
+Authentication failed: kw001 NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+Please Double Check Your ...
+        ",[6],Popup Window on Windows 10
+"
+            I paste this code in my card's template:
+<div id=""tags-container""></div>
+<script>
+
+//Vars
+var tagsPresent = false;
+var tags;
+var tagContent = ""{{Tags}}"";
+// ...
+        ",[7],How can i make this code works on Anki's card template?
+"
+            I am newbie with postman and trying to get data from mysql workbench to postman by this way.
+At first, I created data at MySQL Workbench and here is my data :
+IP : 127.0.0.1:3306
+name : employees
+I ...
+        ",[8],problem when get data from mysql workbench to postman?
+"
+            Is this an example of defining a variable by passing reference?
+a = 5
+b = a
+
+What about this?
+c = a + b
+
+Thank you so much!
+        ",[9],How do we define a variable by passing reference/referenced a name in python? [duplicate]
+"
+            I am trying to get the access code using OAuth flow. I need authorization code for the same. Following is the method to get code:
+private void testRequest2() throws IOException, ...
+        ",[10],Unable to get OAuth Authorization Code / Method Not Allowed exception
+"
+            When using the generational-arena is there anyway to reference an entity in the arena, and then use that reference to assign new values a mutable reference to an entity in the arena?
+What if I want to ...
+        ",[11],Get more than two mutable references to generational arena
+"
+            I want to create a hover color transition but I want it to keep a loop of it. I was yellow transition to red then back to yellow and so on.
+I am unable to figure out how to loop it. Do I need to add ...
+        ",[12],css hover color transition loop
+"
+            I have two models (User and Province) and serializers. The user creates a province and in the province model I have the user id. The challenge is when creating nested serializers, I only want the ...
+        ",[13],Nested Serializer Fields Django Rest Framework
+"
+            I want to get some number, and assign the result to a custom string。I want to get numbers and I can use it in the next part of this script
+the name of this cript is calQue.sh. the content of it is ...
+        ",[14],How to make the number result to a string with value in it
