@@ -9,5 +9,5 @@ class QuotesSpider(scrapy.Spider):
         yield {
             'text': response.xpath('//div[@class="author-description"]/text()').get(),
             'autor': response.xpath('//h3/text()').get(),
-            'tags': response.xpath('//span[1]/text()').get(),   
+            'tags': response.xpath('//span[1]/a[1]/text()').get(),   
         }
